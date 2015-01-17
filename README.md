@@ -1,2 +1,2 @@
 # hover-toggle-btn
-A toggle button with extra hover controls
+An angular toggle button directive with extra hover controls
